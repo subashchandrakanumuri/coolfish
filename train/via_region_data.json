@@ -1108,7 +1108,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3\n"
+            "code": "1"
           }
         },
         {
@@ -1150,7 +1150,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -1263,7 +1263,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -2787,7 +2787,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -2913,7 +2913,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -2941,7 +2941,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3101,7 +3101,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3129,7 +3129,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3155,7 +3155,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3187,7 +3187,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3585,7 +3585,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3619,7 +3619,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3677,7 +3677,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3705,7 +3705,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3727,7 +3727,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3755,7 +3755,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3889,7 +3889,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -3931,7 +3931,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -4024,7 +4024,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -6350,7 +6350,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -6637,7 +6637,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -6790,7 +6790,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -6916,7 +6916,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -6968,7 +6968,7 @@
             ]
           },
           "region_attributes": {
-            "code": "3"
+            "code": "1"
           }
         },
         {
@@ -7573,8 +7573,7 @@
             ]
           },
           "region_attributes": {
-            "code": "4\n"
-          }
+            "code": "2"          }
         },
         {
           "shape_attributes": {
@@ -7617,7 +7616,7 @@
             ]
           },
           "region_attributes": {
-            "code": "4\n"
+            "code": "2"
           }
         },
         {
@@ -8704,7 +8703,7 @@
             ]
           },
           "region_attributes": {
-            "code": "4"
+            "code": "2"
           }
         },
         {
@@ -8742,7 +8741,7 @@
             ]
           },
           "region_attributes": {
-            "code": "4"
+            "code": "2"
           }
         },
         {
@@ -11179,7 +11178,7 @@
             ]
           },
           "region_attributes": {
-            "code": "4"
+            "code": "2"
           }
         },
         {
